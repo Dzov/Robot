@@ -14,8 +14,6 @@ $(".color").click(function() {
   
   //Assign randomRGBA to body's background color
   $("body").css("background", randomRGBA);
-  //Display the three values in an alert window
- // alert(randomRGBA);
 });
 
 $(".moves").click(function() {

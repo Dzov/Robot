@@ -99,7 +99,7 @@
 
 @keyframes blink {
   50% {
-    background: radial-gradient(circle, red 15%, transparent 40%), #cc5;
+    background: radial-gradient(circle, red 15%, transparent 40%), #ccc;
   }
 }
 
